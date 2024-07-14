@@ -1,0 +1,8 @@
+TOPIC { operators}
+arithematic operators(+,-,*,/,*);
+assignment operators(+=,-=);
+comaparision operator( ><),(<=,>=);
+logical operator (&&,||,!);
+ternary operator 
+
+
